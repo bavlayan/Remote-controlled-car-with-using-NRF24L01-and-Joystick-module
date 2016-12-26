@@ -88,11 +88,11 @@ void send_move_command() {
 
 void initialize_transmitter() {
     delay(150);
-    LOG_MESSAGE("Transmitter bağlantısı başlatıldı.");
+    LOG_MESSAGE("Receiver has been started.");
     SPI.begin();
     SPI.setBitOrder(MSBFIRST);
     transmitter.channel(90);
-    transmitter.TXaddress("ccc");
+    transmitter.TXaddress("bavlayan");
     transmitter.init(); 
 }
 

@@ -79,7 +79,7 @@ void initialize_receiver() {
     SPI.begin();
     SPI.setBitOrder(MSBFIRST);
     receiver.channel(90);
-    receiver.RXaddress("ccc");
+    receiver.RXaddress("bavlayan");
     receiver.init();       
 }
 
