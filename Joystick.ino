@@ -1,3 +1,9 @@
+/**
+ * @name     YeniÇeri
+ * @author   Batuhan AVLAYAN <iletisim@batuhanavlayan.com>
+ * @version  V1.0
+ */
+
 #include <nRF24L01p.h>
 #include <SPI.h>
 
