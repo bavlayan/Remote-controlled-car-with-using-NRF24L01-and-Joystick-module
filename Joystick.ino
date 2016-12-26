@@ -88,7 +88,7 @@ void send_move_command() {
 
 void initialize_transmitter() {
     delay(150);
-    LOG_MESSAGE("Receiver has been started.");
+    LOG_MESSAGE("Transmitter has been started.");
     SPI.begin();
     SPI.setBitOrder(MSBFIRST);
     transmitter.channel(90);
