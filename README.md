@@ -3,7 +3,7 @@
 ### Description 
 * The car is a basic remote controlled car prototype. 
 * It is controlled by joystick and  NRF24L01 wireless module.
-* YeniÇeri can move four axes. <br /> <br />
+* The car can move four axes. <br /> <br />
 
 ####It used following items when building YeniÇeri <br />
 * 2 pcs [Arduino UNO R3](http://www.robotistan.com/arama?B=Arama&Kid=T%C3%9CM+KATEGOR%C4%B0LERDE&q=arduino+uno)
