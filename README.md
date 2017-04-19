@@ -1,8 +1,7 @@
 
 
-### Description
-* The car is called "YeniÇeri" (: 
-* YeniÇeri is a basic remote controlled car prototype. 
+### Description 
+* The car is a basic remote controlled car prototype. 
 * It is controlled by joystick and  NRF24L01 wireless module.
 * YeniÇeri can move four axes. <br /> <br />
 
