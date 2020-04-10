@@ -16,5 +16,5 @@
 Video will be added in the coming days.
 
 ## Author
-Batuhan AVLAYAN [@batuhanavl](https://twitter.com/batuhanavl)<br />
-iletisim@batuhanavlayan.com
+Batuhan AVLAYAN [@batuhan_avlayan](https://twitter.com/batuhan_avlayan)<br />
+b.avlayan@gmail.com
